@@ -1,2 +1,7 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+Article : [Career advice for recent Computer Science graduates](https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html)
+
+---
+
+This article was fascinating to me because it goes in depth into the dilemma most computer science seniors face: whether to start a startup, pursue a master's or PhD, or work in tech. I always enjoy reading Chip Huyen's writing, and this one particularly stood out to me because, although this article was written in 2018, I myself was having some of the same questions that she addressed in detail. Huyen's comment on how to find a good startup to join and how to spot the red flags early on was really helpful. Overall, her advice is to have a plan post-graduation and look for mentors, especially in software engineering. In computer science undergrad, we are not told to seek out mentors, but it is really helpful, especially in a field like software engineering, where someone who went through a similar journey can point you in the right direction to avoid making bad decisions. Overall, this was a great article that talks about both career and how to improve at software engineering in the workplace by seeking out mentors and writing down contributions early to showcase to managers. **Above all, to have fun, enjoy the moment, and figure it out through the process.**
